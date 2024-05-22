@@ -1,0 +1,10 @@
+{
+  "jhipstermogodbApp": {
+    "SalaryType": {
+      "null": "",
+      "EXECUTIVE_SALARIED": "EXECUTIVE_SALARIED",
+      "ASSOCIATE": "ASSOCIATE",
+      "NON_EXECUTIVE_SALARIED": "NON_EXECUTIVE_SALARIED"
+    }
+  }
+}
